@@ -8,3 +8,6 @@ Please read the [instructions](INSTRUCTIONS.md)
    - https://mriyam.dev/
    - https://twitter.com/mbtamuli
    - https://www.linkedin.com/in/mbtamuli
+- [geekodour](https://github.com/geekodour)
+   - https://geekodour.xyz
+   - https://twitter.com/geekodour

@@ -57,7 +57,7 @@
 9. Do **Star** ⭐ this repo to show some love. 🤩
 
 ## Demo 
-![](https://github.com/joinalahmed/learnPR/blob/add-name-joinal/git.gif)
+![](https://github.com/joinalahmed/learnPR/blob/add-name-joinal/gitfa.gif)
 ## Reading Material
 
 Part 1 - https://thenewstack.io/tutorial-git-for-absolutely-everyone/  

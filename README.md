@@ -62,9 +62,9 @@ This repository contains a list of members participating in Hacktoberfest Guwaha
 
 ## Reading Material
 
-Part 1 - https://thenewstack.io/tutorial-git-for-absolutely-everyone/
-Part 2 - https://thenewstack.io/git-with-the-program-getting-started-with-github/
-Part 3 - https://thenewstack.io/getting-legit-with-git-and-github-cloning-and-forking/
-Part 4 - https://thenewstack.io/getting-legit-with-git-and-github-your-first-pull-request/
+- Part 1 - https://thenewstack.io/tutorial-git-for-absolutely-everyone/
+- Part 2 - https://thenewstack.io/git-with-the-program-getting-started-with-github/
+- Part 3 - https://thenewstack.io/getting-legit-with-git-and-github-cloning-and-forking/
+- Part 4 - https://thenewstack.io/getting-legit-with-git-and-github-your-first-pull-request/
 
 Cheat Sheet - https://education.github.com/git-cheat-sheet-education.pdf

@@ -16,13 +16,13 @@ This repository contains a list of members participating in Hacktoberfest Guwaha
    # For example,
    git checkout -b add-name-einstein
    ```
-4. Create a new file inside the directory `names/` with the filename: `<username>.md` and add your profile links from various sites in the `<username.md>` file.
+4. Create a new file inside the directory `names/` with the filename: `<username>.md` and add your profile links from various sites in the `<username.md>` file. See files under `names/` for an example. (The three spaces represented by the dot `.` here)
    ```md
    - [<username>](https://github.com/username)
-   - Blog Link
-   - Twitter Link
-   - LinkedIn Link
-   - [OPTIONAL] Dribble/CodePen/Stack Overflow or any other web presence
+   ...- Blog Link
+   ...- Twitter Link
+   ...- LinkedIn Link
+   ...- [OPTIONAL] Dribble/CodePen/Stack Overflow or any other web presence
    ```
 5. Add the file to the staging area
    ```sh

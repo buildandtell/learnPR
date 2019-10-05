@@ -1,0 +1,26 @@
+{
+  "name": "learnpr",
+  "version": "1.0.0",
+  "description": "This repository contains a list of members participating in Hacktoberfest Guwahati.",
+  "main": "index.js",
+  "dependencies": {
+    "markdown-styles": "^3.1.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "npm run genmd && generate-md --layout github --input index.md --output build",
+    "genmd": "cat names/* > index.md",
+    "clean": "rm -rf build/ index.md node_modules package-lock.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "keywords": []
+}

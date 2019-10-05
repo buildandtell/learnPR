@@ -8,3 +8,5 @@ Please read the [instructions](INSTRUCTIONS.md)
    - https://mriyam.dev/
    - https://twitter.com/mbtamuli
    - https://www.linkedin.com/in/mbtamuli
+- [joinalahmed](https://github.com/joinalahmed)
+   - https://www.linkedin.com/in/joinalahmed

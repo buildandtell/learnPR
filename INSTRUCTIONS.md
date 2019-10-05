@@ -56,7 +56,8 @@
 8. Create a Pull Request on the original repo([https://github.com/buildandtell/learnPR](https://github.com/buildandtell/learnPR)) 🚀
 9. Do **Star** ⭐ this repo to show some love. 🤩
 
-
+## Demo 
+![](https://github.com/joinalahmed/learnPR/blob/add-name-joinal/git.gif)
 ## Reading Material
 
 Part 1 - https://thenewstack.io/tutorial-git-for-absolutely-everyone/  

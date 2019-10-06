@@ -1,3 +1,0 @@
-- [testuser-hof-ghy](https://github.com/testuser-hof-ghy)
-   - https://myblog.com
-   - https://twitter.com/user

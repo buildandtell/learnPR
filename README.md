@@ -5,6 +5,8 @@ This repository contains a list of members participating in Hacktoberfest Guwaha
 
 **Note:** _If you have never used Git or GitHub, it is highly recommended to read the articles mentioned in the **Reading Material** section._
 
+Supporting video for the following steps: https://youtu.be/aR4KPfCEtrQ
+
 1. Fork this repository
 2. Clone your repository locally
    ```sh

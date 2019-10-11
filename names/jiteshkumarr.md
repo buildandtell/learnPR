@@ -1,4 +1,3 @@
 - [jiteshkumarr](https://github.com/jiteshkumarr)
    - https://twitter.com/_s1mpl3
    - https://www.linkedin.com/in/jitesh-kumar-78218b152/
-

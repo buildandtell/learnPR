@@ -3,7 +3,9 @@ This repository contains a list of members participating in Hacktoberfest Guwaha
 
 ## Instructions
 
-**Note:** _If you have never used Git or GitHub, it is highly recommended to read the articles mentioned in the **Reading Material** section._
+**Note:**
+- PRs to this repository will not be counted towards your 4PRs for Hacktoberfest, this is just for learning.
+- _If you have never used Git or GitHub, it is highly recommended to read the articles mentioned in the **Reading Material** section._
 
 Supporting video for the following steps: https://youtu.be/aR4KPfCEtrQ
 
